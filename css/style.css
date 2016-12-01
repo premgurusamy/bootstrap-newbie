@@ -1,0 +1,64 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.navbar-collapse ul li {
+  background-color: transparent;
+}
+
+header{
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+
+  height: 20%;
+  background-color: rgb(241, 99, 99);
+}
+
+header h3{
+  color: white;
+}
+.jumbotron{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: transparent;
+}
+
+.intro-button{
+  border: none;
+  border-radius: 0px;
+}
+.fa{
+  padding: 10px;
+
+}
+
+.navbar-default{
+  background-color:transparent;
+  border-radius: 0;
+  margin: 0;
+}
+.icon-bar{
+  border:2px solid rgb(70,70,70);
+}
+
+li{
+  background-color: rgb(205, 205, 205);
+  color: rgb(106, 106, 106);
+  font-weight: bold;
+}
+
+
+.intro-head h3{
+  line-height: 1.5em;
+  font-weight: 400;
+  margin-bottom: 50px;
+}
+
+.first-row div{
+  margin-bottom: 20px;
+}
+
+.first-row p{
+  color:rgb(130, 130, 130);
+}
